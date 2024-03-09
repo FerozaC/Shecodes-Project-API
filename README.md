@@ -1,2 +1,3 @@
-# Shecodes-Project-API
+# Weather-Project-API
+Hosted on Netlify
  
